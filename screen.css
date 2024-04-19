@@ -2,3 +2,52 @@
 a.active {
     font-weight: bold;
 }
+
+body {
+    background-color: #595959;
+    padding-top: 50px;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.me {
+    border-radius: 10px;
+    height: 235px;
+    width: 350px;
+    border: 5px solid #FCBFB7;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-size: 50px;
+    background-color: #91C499;
+    padding: 50px;
+    color: #595959;
+}
+
+h2 {
+    color: #F2E9DC;
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+h3 {
+    color: #F2E9DC;
+    font-size: 30px;
+    padding-bottom: 15px;
+}
+
+div {
+    background-color: #91C499;
+    padding: 10px;
+}
+
+ul {
+    list-style-position: inside;
+    text-align: left;
+    margin-left: 800px;
+    font-size: 20px;
+    color: #F2E9DC;
+}
